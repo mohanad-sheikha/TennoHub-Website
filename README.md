@@ -1,8 +1,3 @@
-
-This was an experimental project to create a fully-functional marketplace.
-
-The website is for trading Warframe in-game items for in-game currency.
-
 # Concepts, technologies, and frameworks:
 
 * **Vue** - Front-end
