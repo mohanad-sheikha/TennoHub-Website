@@ -1,6 +1,6 @@
-node_modules/
 .history/
-public/images/
 .vscode/
+node_modules/
+public/images/
 public/sitemap.xml
 public/robots.xml
