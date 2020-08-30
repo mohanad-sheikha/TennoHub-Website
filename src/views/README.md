@@ -1,0 +1,2 @@
+Views are HTML templates composed using individual components from the components folder.
+For example, there is a LoginForm component. The Login view in this folder would be the login page itself, with the LoginForm inside.

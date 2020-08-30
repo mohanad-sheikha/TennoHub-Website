@@ -1,0 +1,1 @@
+The individual Vue components used across the website.

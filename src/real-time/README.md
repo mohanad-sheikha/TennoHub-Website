@@ -1,0 +1,1 @@
+The source code for our FeathersJS client is in here.
