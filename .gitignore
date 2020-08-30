@@ -1,4 +1,6 @@
 node_modules/
 .history/
-/public/images/
+public/images/
 .vscode/
+public/sitemap.xml
+public/robots.xml
