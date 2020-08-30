@@ -1,0 +1,63 @@
+{
+	"name": "tennohub",
+	"version": "1.0.0",
+	"main": "src/main.js",
+	"dependencies": {
+		"@feathersjs/feathers": "^4.5.3",
+		"@feathersjs/socketio": "^4.5.4",
+		"@feathersjs/socketio-client": "^4.5.4",
+		"@vue/cli": "^4.3.1",
+		"@vue/cli-plugin-babel": "^4.3.1",
+		"@vue/cli-plugin-eslint": "^4.3.1",
+		"@vue/cli-service": "^4.3.1",
+		"axios": "^0.19.2",
+		"babel-eslint": "^10.1.0",
+		"body-parser": "^1.19.0",
+		"bootstrap": "^4.4.1",
+		"cors": "^2.8.5",
+		"eslint": "^7.0.0",
+		"eslint-plugin-vue": "^6.2.2",
+		"express": "^4.17.1",
+		"js-cookie": "^2.2.1",
+		"jsonwebtoken": "^8.5.1",
+		"moment": "^2.26.0",
+		"mongodb": "^3.5.6",
+		"mongoose": "^5.9.11",
+		"node-sass": "^4.14.1",
+		"nodemon": "^2.0.3",
+		"overlayscrollbars-vue": "^0.2.2",
+		"socket.io-client": "^2.3.0",
+		"uniqid": "^5.2.0",
+		"uws": "^100.0.1",
+		"velocity-animate": "^1.5.2",
+		"vue": "^2.6.11",
+		"vue-router": "^3.1.6",
+		"vuetify": "^2.3.1",
+		"vuex": "^3.3.0"
+	},
+	"scripts": {
+		"build": "node --max_old_space_size=4096 \"C:\\Users\\Mohanad\\Dropbox\\TennoHub Website\\node_modules\\@vue\\cli-service\\bin\\vue-cli-service.js\" build",
+		"serve": "vue-cli-service serve",
+		"serve-test": "vue serve src/main.js"
+	},
+	"eslintConfig": {
+		"root": true,
+		"env": {
+			"node": true
+		},
+		"extends": [
+			"plugin:vue/base",
+			"eslint:recommended"
+		],
+		"parserOptions": {
+			"parser": "babel-eslint"
+		},
+		"rules": {}
+	},
+	"devDependencies": {
+		"deepmerge": "^4.2.2",
+		"moment-locales-webpack-plugin": "^1.2.0",
+		"sass": "^1.26.8",
+		"sass-loader": "^8.0.2"
+	}
+}
