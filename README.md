@@ -1,3 +1,4 @@
+Note: This project is way older than the first commit date.
 # Concepts, technologies, and frameworks:
 
 * **Vue** - Front-end
